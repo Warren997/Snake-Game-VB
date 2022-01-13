@@ -8,3 +8,4 @@ To run this app please download this repo and open Vb Example\bin\Debug and clic
 ![](thumbnail/thumbnail-1.png)
 ![](thumbnail/thumbnail-2.png)
 ![](thumbnail/thumbnail-3.png)
+![](thumbnail/thumbnail-4.png)
